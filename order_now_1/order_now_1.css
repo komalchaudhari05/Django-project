@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.contain{
+    height: 690px;
+    width: 1090px;
+    margin-left: 8%;
+    text-align: center;
+    background-color: wheat;
+    font-size: 20px;
+}
+.sofa p{
+    text-align: center;
+}
+.sofa button{
+    width: 140px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    margin-top: 24px;
+    background-color: rgb(130,191,7);
+    color: white;
+}
+.sofa button:hover{
+    background-color: white;
+    color: black;
+}

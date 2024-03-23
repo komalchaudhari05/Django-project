@@ -1,0 +1,13 @@
+.sofa button{
+    width: 120;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    margin-top: 24px;
+    background-color: rgb(130,191,7);
+    color: white;
+}
+.sofa button:hover{
+    background-color: white;
+    color: black;
+}
